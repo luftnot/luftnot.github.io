@@ -23,3 +23,8 @@ Liebe Grüße,
 Das Luftnot Kollektiv
 
 [https://x.com/luftnot](https://x.com/luftnot)
+
+
+# Medien
+![SUV Foto](/assets/images/2024-08-27/suv.jpeg)
+[Flugblatt.pdf](/assets/docs/Flugblatt.pdf)
