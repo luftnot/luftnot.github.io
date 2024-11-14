@@ -1,10 +1,18 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Hi</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Luftnot Kollektiv - Press Releases</title>
+</head>
+<body>
+  <h1>Press Releases</h1>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span> - {{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</body>
 </html>

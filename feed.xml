@@ -1,0 +1,20 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Luftnot Kollektiv</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description }}</description>
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title | escape }}</title>
+      <description>{{ post.content | escape }}</description>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid>{{ site.url }}{{ post.url }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
