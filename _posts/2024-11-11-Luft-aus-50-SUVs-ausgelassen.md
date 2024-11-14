@@ -25,4 +25,4 @@ Liebe Grüße,
 
 Das Luftnot Kollektiv
 
-https://x.com/luftnot
+[https://x.com/luftnot](https://x.com/luftnot)

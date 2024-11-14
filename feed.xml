@@ -6,7 +6,6 @@ layout: null
   <channel>
     <title>Luftnot Kollektiv</title>
     <link>{{ site.url }}</link>
-    <description>{{ site.description }}</description>
     {% for post in site.posts %}
     <item>
       <title>{{ post.title | escape }}</title>
