@@ -25,6 +25,9 @@ Liebe Grüße,
 
 Das Luftnot Kollektiv
 
+# Bekenntnistweet zum Einbinden
+[https://x.com/luftnot/status/1855800789400257007](https://x.com/luftnot/status/1855800789400257007)
+
 # Downloads
  - [suv.png](/assets/images/2024-11-11/suv.png)
  - [Flugblatt.pdf](/assets/docs/Flugblatt.pdf)

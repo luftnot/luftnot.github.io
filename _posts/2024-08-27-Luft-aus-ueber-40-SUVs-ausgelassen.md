@@ -22,6 +22,9 @@ Wir sind nicht alleine. The Tyre Extinguishers sind eine globale Bewegung, die f
 Liebe Grüße,
 Das Luftnot Kollektiv
 
+# Bekenntnistweet zum Einbinden
+[https://x.com/luftnot/status/1828258738861436990](https://x.com/luftnot/status/1828258738861436990)
+
 # Downloads
  - [suv.jpeg](/assets/images/2024-08-27/suv.jpeg)
  - [Flugblatt.pdf](/assets/docs/Flugblatt.pdf)
