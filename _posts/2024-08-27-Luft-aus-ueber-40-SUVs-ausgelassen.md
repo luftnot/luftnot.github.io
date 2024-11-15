@@ -16,15 +16,15 @@ Wir befinden uns mitten in der Klimakatastrophe: Seit über einem Jahr überschr
 
 In dieser Welt können wir es nicht hinnehmen, dass SUVs weiter in unseren Städten herumfahren. Die Politik hat versagt, effektiv gegen die existenzielle Bedrohung, die die Klimakrise für unsere Zivilisation darstellt, vorzugehen. Die Möglichkeiten von Petitionen, Volksbegehren, Wahlen, Demonstrationen und Zivilem Ungehorsam wurden bereits ausgeschöpft. Wir sehen uns daher in der Verantwortung, den Kampf gegen die Klimakatastrophe selbst in die Hand zu nehmen. Wir machen die Maschinen unschädlich, die direkt für die Zerstörung unseres Planeten verantwortlich sind. Das ist Klimaschutz mit Hausverstand!
 
-Wir sind nicht alleine. The Tyre Extinguishers sind eine globale Bewegung, die für eine lebenswerte Zukunft kämpft. Jede:r kann mitmachen. Auf der Website[https://tyreextinguishers.com](https://tyreextinguishers.com) finden sich alle Informationen, die man braucht, um selbst aktiv zu werden.
+Wir sind nicht alleine. The Tyre Extinguishers sind eine globale Bewegung, die für eine lebenswerte Zukunft kämpft. Jede:r kann mitmachen. Auf der Website [https://tyreextinguishers.com](https://tyreextinguishers.com) finden sich alle Informationen, die man braucht, um selbst aktiv zu werden.
 
 
 Liebe Grüße,
 Das Luftnot Kollektiv
 
 # Downloads
-[suv.jpeg](/assets/images/2024-08-27/suv.jpeg)
-[Flugblatt.pdf](/assets/docs/Flugblatt.pdf)
+ - [suv.jpeg](/assets/images/2024-08-27/suv.jpeg)
+ - [Flugblatt.pdf](/assets/docs/Flugblatt.pdf)
 
 # Kontakt / X
 [https://x.com/luftnot](https://x.com/luftnot)

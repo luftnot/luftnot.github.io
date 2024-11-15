@@ -26,8 +26,8 @@ Liebe Grüße,
 Das Luftnot Kollektiv
 
 # Downloads
-[suv.png](/assets/images/2024-11-11/suv.png)
-[Flugblatt.pdf](/assets/docs/Flugblatt.pdf)
+ - [suv.png](/assets/images/2024-11-11/suv.png)
+ - [Flugblatt.pdf](/assets/docs/Flugblatt.pdf)
 
 # Kontakt / X
 [https://x.com/luftnot](https://x.com/luftnot)
