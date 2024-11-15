@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Luft aus über 40 SUVs ausgelassen"
-date: 2024-08-27
+date: 2024-08-27 04:30
 categories: press-release
 ---
 Sehr geehrte Medienvertreter:innen!
