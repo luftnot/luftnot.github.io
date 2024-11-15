@@ -13,3 +13,7 @@ title: "Luftnot Kollektiv - Pressemitteilungen"
     </li>
   {% endfor %}
 </ul>
+
+
+### [RSS-Feed]({{ site.url }}/feed.xml)
+```{{ site.url }}/feed.xml```
