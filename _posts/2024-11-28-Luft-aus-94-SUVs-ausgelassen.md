@@ -6,7 +6,7 @@ categories: press-release
 ---
 Sehr geehrte Medienvertreter:innen!
 
-Wien/Währing. SUVs töten! Sie sind eine Gefahr für Kinder und Fußgänger:innen, sie verpesten unsere Luft und zerstören unsere Umwelt.
+Wien/Hernals. SUVs töten! Sie sind eine Gefahr für Kinder und Fußgänger:innen, sie verpesten unsere Luft und zerstören unsere Umwelt.
 
 Deshalb haben wir in der Nacht von Mittwoch auf Donnerstag die Luft aus den Reifen von 94 SUVs gelassen. Wir können es nicht verantworten, dass diese Klimakiller weiterhin in unserer Stadt herumfahren.
 
