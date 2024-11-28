@@ -33,5 +33,5 @@ Somit können wir effizient unser Ziel erreichen, ohne Gewalt anwenden zu müsse
 Nein, wir sind gegen jegliche körperliche Gewalt gegenüber Lebewesen.
 
 
-# Kontakt / X
+# Kontakt
 [https://x.com/luftnot](https://x.com/luftnot)
